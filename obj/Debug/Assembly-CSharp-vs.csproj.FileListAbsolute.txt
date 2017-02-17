@@ -1,0 +1,15 @@
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\Assembly-CSharp.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\GoogleAdsWP8.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\UnityEditor.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\UnityEngine.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\UnityEngine.UI.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\WP8Native.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\WP8PopUps.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\Mono.Cecil.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\nunit.framework.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\Unity.DataContract.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\obj\Debug\Assembly-CSharp.dll
+D:\OhGame\Unity\Project\Test\FireWorks_Unity4\obj\Debug\Assembly-CSharp.pdb
